@@ -1,2 +1,2 @@
-# FTP-Cloud
-In this project FTP API was used to make a cloud Server. The FTP api was used for server side as well as for client side. one can simply upload the project after joining with the server. All the files uploaded to that directory will be put into the server and all the people having access to that server repository will have access to all the files in that repository
+# FTP-Based-Central-Cloud-Storage
+FTP based central cloud storage provides ability to upload files to a central server from multiple clients. Anyone can be a server by choosing appropriate options on the start menu and server can create user identities which are shared with the clients and clients can connect using those credentials and upload, download, delete files from the server
